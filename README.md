@@ -20,9 +20,6 @@ A privacy-centric, self-hosted platform for managing desk and asset reservations
 A privacy-focused data scrubbing and transformation tool powered by a high-performance WebAssembly (WASM) engine for client-side processing.
 
 ---
-
-### 🌟 Project Stars & Activity
-
 <br />
 
 <a href="https://www.star-history.com/?repos=c0dewhacker%2Fdlpduck%2Cc0dewhacker%2FRoomer%2Cc0dewhacker%2FScrubChef&type=date&legend=top-left">
